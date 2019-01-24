@@ -1,5 +1,5 @@
 # r-ladies-highcharter
-This repository contains slides and data for my presentation on the `highcharter` package for the "Data Visualization in R: from exploration to presentation" R-Ladies Paris Meetup on Nov. 9th, 2017.
+This repository contains [slides](https://mpaulacaldas.github.io/r-ladies-highcharter/) and data for my presentation on the `highcharter` package for the "Data Visualization in R: from exploration to presentation" R-Ladies Paris Meetup on Nov. 9th, 2017.
 
 This presentation gives only a glimpse into the amazing visualizations that can be produced with the `highcharter` package. For a proper introduction, check out the awesome demos and examples available at [the official package website](http://jkunst.com/highcharter/) and on [Joshua Kunst's blog](http://jkunst.com/blog/).
 
